@@ -64,11 +64,11 @@
     opacity: 1;
 }
  .card2 {
-    background: url("https://o.remove.bg/downloads/f6f58d28-3882-4ddd-b5b5-d2c2611c37d4/image-removebg-preview.png") center center no-repeat;
+    background: url("image-removebg-preview (2).png") center center no-repeat;
     background-size: 300px;
 }
  .card2:hover {
-    background: url("https://o.remove.bg/downloads/f6f58d28-3882-4ddd-b5b5-d2c2611c37d4/image-removebg-preview.png") left center no-repeat;
+    background: url("image-removebg-preview (2).png") left center no-repeat;
     background-size: 600px;
 }
  .card2:hover h2 {
